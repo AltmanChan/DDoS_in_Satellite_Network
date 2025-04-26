@@ -14,13 +14,13 @@
 
 ### Journal
 
-**[1] Junpeng He, Xiong Li, Xiaosong Zhang, Weina Niu and Fagen Li. A Synthetic Data-Assisted Satellite Terrestrial Integrated Network Intrusion Detection Framework. IEEE TIFS. 2025**
+[1] **Junpeng He, Xiong Li, Xiaosong Zhang, Weina Niu and Fagen Li. A Synthetic Data-Assisted Satellite Terrestrial Integrated Network Intrusion Detection Framework. IEEE TIFS. 2025**
 
-**[2] Sara Salim, Nour Moustafa, Mohamed Hassanian, David Ormod and Jill Slay. Deep-Federated-Learning-Based Threat Detection Model for Extreme Satellite Communications. IEEE Internet of Things Journal. 2024.**
+[2] **Sara Salim, Nour Moustafa, Mohamed Hassanian, David Ormod and Jill Slay. Deep-Federated-Learning-Based Threat Detection Model for Extreme Satellite Communications. IEEE IOTJ. 2024.**
 
-[3] Wei Guo, Jin Xu, Yukui Pei, Liuguo Yin, Chunxiao Jiang and Ning Ge. A Distributed Collaborative Entrance Defense Framework Against DDoS Attacks on Satellite Internet. IEEE IOTJ. 2022.
+[3] **Wei Jiang, Hao Jiang, Yulai Xie, Jing Wu, Xiaofan He and Hao Li. SatShield: In-Network Mitigation of Link Flooding Attacks for LEO Constellation Networks. IEEE IOTJ. 2024.**
 
-**[4] Wei Jiang, Hao Jiang, Yulai Xie, Jing Wu, Xiaofan He and Hao Li. SatShield: In-Network Mitigation of Link Flooding Attacks for LEO Constellation Networks. IEEE IOTJ. 2024.**
+[4] Wei Guo, Jin Xu, Yukui Pei, Liuguo Yin, Chunxiao Jiang and Ning Ge. A Distributed Collaborative Entrance Defense Framework Against DDoS Attacks on Satellite Internet. IEEE IOTJ. 2022.
 
 [5] Sara Salim, Nour Moustafa and Abdulrazaq Almorjan. Responsible Deep-Federated-Learning-Based Threat Detection for Satellite Communications. IEEE IOTJ. 2025.
 
